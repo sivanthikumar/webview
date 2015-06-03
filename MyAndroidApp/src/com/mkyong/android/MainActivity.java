@@ -25,8 +25,8 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View arg0) {
 
-				Intent intent = new Intent(context, WebViewActivity.class);
-				startActivity(intent);
+			//	Intent intent = new Intent(context, WebViewActivity.class);
+				//startActivity(intent);
 			}
 
 		});
